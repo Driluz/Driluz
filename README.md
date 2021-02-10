@@ -1,6 +1,6 @@
-Hi 👋, I'm Adriano Luz 
+<h1>Hi 👋, I'm Adriano Luz </h1>
 
-I'm a programmer and graphic designer, passionate about technology and learning.
+<b>I'm a programmer and graphic designer, passionate about technology and learning.</b>
 
 🎯 Focused on: python, sql, database, data scientist, web development. 
 
@@ -8,9 +8,9 @@ I'm a programmer and graphic designer, passionate about technology and learning.
 
 📱 Social Networks:
 
-Instagram: instagram.com/adrianoluz.web
+Instagram: http://instagram.com/adrianoluz.web
 
-Linkedin: linkedin.com/in/adriano-luz-7844b4143/
+Linkedin: http://linkedin.com/in/adriano-luz-7844b4143
 
 📫 Contact: adrianoluz.suporte@gmail.com
 
