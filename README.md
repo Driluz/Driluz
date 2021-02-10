@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi 👋, I'm Adriano Luz 
 
-<!--
-**Driluz/Driluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer and graphic designer, passionate about technology and learning.
 
-Here are some ideas to get you started:
+🎯 Focused on: python, sql, database, data scientist, web development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 See more about me and my projects, available at http://bit.ly/adrianoluz-web
+
+📱 Social Networks:
+
+Instagram: instagram.com/adrianoluz.web
+
+Linkedin: linkedin.com/in/adriano-luz-7844b4143/
+
+📫 Contact: adrianoluz.suporte@gmail.com
+
