@@ -4,13 +4,13 @@
 
 🎯 Focused on: python, sql, database, data scientist, web development. 
 
-👨‍💻 See more about me and my projects, available at http://bit.ly/adrianoluz-web
+👨‍💻 See more about me and my projects, available at <a href="http://bit.ly/adrianoluz-web" target="blank">adrinoluz-web</a>
 
 📱 Social Networks:
 
-Instagram: http://instagram.com/adrianoluz.web
+Instagram: <a href="http://instagram.com/adrianoluz.web" target="blank">@adrianoluz.web</a>
 
-Linkedin: http://linkedin.com/in/adriano-luz-7844b4143
+Linkedin: <a href="http://linkedin.com/in/adriano-luz-7844b4143" target="blank">@adriano-luz-7844b4143</a>
 
 📫 Contact: adrianoluz.suporte@gmail.com
 
