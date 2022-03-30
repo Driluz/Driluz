@@ -10,7 +10,7 @@
 
 📱 Social Networks:
 
-Linkedin: <a href="https://www.linkedin.com/in/adrianoluz-dev/" target="_blank">@adriano-luz-7844b4143</a>
+Linkedin: <a href="https://www.linkedin.com/in/adrianoluz-dev/" target="_blank">@adrianoluz-dev</a>
 
 📫 Contact: adrianoluz.suporte@gmail.com
 
