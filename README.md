@@ -8,8 +8,6 @@
 
 📱 Social Networks:
 
-Instagram: <a href="http://instagram.com/adrianoluz.web" target="_blank">@adrianoluz.web</a>
-
 Linkedin: <a href="http://linkedin.com/in/adriano-luz-7844b4143" target="_blank">@adriano-luz-7844b4143</a>
 
 📫 Contact: adrianoluz.suporte@gmail.com
