@@ -2,7 +2,9 @@
 
 <b>I'm a programmer and graphic designer, passionate about technology and learning.</b>
 
-🎯 Focused on: python, sql, database, data science, web development. 
+🎯 Focused on: Angular e Design Systems
+
+📚 knowledge in: python, sql, database, data science, web development. 
 
 👨‍💻 See more about me and my projects, available at <a href="http://bit.ly/adrianoluz-web" target="_blank">adrinoluz-web</a>
 
