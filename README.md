@@ -6,7 +6,7 @@
 
 📚 knowledge in: python, sql, HTML5, JavaScript, database, data science, web development. 
 
-👨‍💻 See more about me and my projects, available at <a href="http://bit.ly/adrianoluz-web" target="_blank">adrinoluz-web</a>
+👨‍💻 See more about me and my projects, available at <a href="http://bit.ly/adrianoluz-web" target="_blank">adrianoluz-web</a>
 
 📱 Social Networks:
 
