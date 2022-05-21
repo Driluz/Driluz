@@ -8,7 +8,7 @@
 
 📱 Social Networks:
 
-Linkedin: <a href="https://www.linkedin.com/in/adrianoluz.web/" target="_blank">@adrianoluz.web</a>
+Linkedin: <a href="https://www.linkedin.com/in/adrianoluz-web/" target="_blank">@adrianoluz-web</a>
 
 📫 Contact: adrianoluz.suporte@gmail.com
 
