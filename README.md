@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Adriano Luz </h1>
 
-<b>I'm a systems analyst and developer, passionate about technology and learning.</b>
+<b>I am a systems analyst and I currently work in the IT area for healthcare.</b>
 
-🎯 Focused on: Quality Analysis and Software Testing.
+🎯 Focused on: systems support and programming. ERP TASY
 
-📚 Knowledge in: JAVA, python, sql, HTML5, JavaScript, database, data science, web development.
+📚 Knowledge in: JAVA, python, sql, JavaScript, database, data science.
 
 📱 Social Networks:
 
