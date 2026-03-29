@@ -1,14 +1,20 @@
-<h1>Hi 👋, I'm Adriano Luz </h1>
+# Hi 👋, I'm Adriano Luz
 
-<b>I am a systems analyst and I currently work in the IT area for healthcare.</b>
+**Systems Analyst | Data Science Student | Python & AI Automation**
 
-🎯 Focused on: systems support and programming. ERP TASY
+I am a Systems Analyst with a strong background in development and IT support, currently working at one of the largest hospitals in Latin America. I specialize in healthcare technology and **ERP TASY**.
 
-📚 Knowledge in: JAVA, python, sql, JavaScript, database, data science.
+### 👨‍💻 About Me
+- 🎓 I am currently pursuing a postgraduate degree in **Data Science**.
+- 🚀 My main focus right now is on **Python, Machine Learning, and AI Automations** to optimize IT workflows (such as creating custom AI assistants for service desks and system monitoring scripts).
+- 💡 I have solid experience in systems analysis, development, and database management.
+- 🌱 I am constantly learning and building solutions that bridge healthcare IT with data-driven technologies.
 
-📱 Social Networks:
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, Java, JavaScript, SQL (Oracle)
+- **Data & AI:** Data Science, Machine Learning, AI Integration
+- **Systems & Tools:** ERP TASY, Database Management
 
-Linkedin: <a href="https://www.linkedin.com/in/adrianoluz-web/" target="_blank">@adrianoluz-web</a>
-
-📫 Contact: adrianoluz.suporte@gmail.com
-
+### 📫 Let's Connect!
+- **LinkedIn:** [@adrianoluz-web](https://linkedin.com/in/adrianoluz-web)
+- **Email:** adrianoluz.suporte@gmail.com
